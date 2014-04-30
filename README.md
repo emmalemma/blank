@@ -1,5 +1,5 @@
 This is an empty project.
 
-Table | Table
+Table                | Table                    
 ------|-------
 Test  | Test
